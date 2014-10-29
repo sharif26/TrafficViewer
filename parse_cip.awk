@@ -1,4 +1,4 @@
-cat parse_cip.awk
+
 {
         if($2=="Diameter"){
         c = $7; 
